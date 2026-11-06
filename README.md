@@ -50,3 +50,6 @@ Una red inicial de empresas y organizaciones receptoras.
 Indicadores para medir el impacto y la eficiencia del sistema.
 Una evaluación de la viabilidad económica y operativa.
 Una propuesta de continuidad y posible escalamiento para la temporada 2027–28.
+
+## Informe
+Documento del trabajo: [Ver PDF](./Eleeción%20tema.pdf)
