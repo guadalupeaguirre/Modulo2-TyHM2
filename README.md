@@ -1,12 +1,12 @@
-## Módulo 2 - Asistente de Redacción con IA para planes y proyectos.
+# Módulo 2 - Asistente de Redacción con IA para planes y proyectos.
 
 En este módulo usamos Claude como asistente de redacción para estructurar y escribir informes técnicos y planes ejecutivos. Practicamos cómo formular buenos prompts, refinar el estilo y revisar críticamente los textos, logrando reportes precisos, cohesivos y elaborados en menos tiempo.
 
-# Red de recuperación trazable de excedentes y envases en la industria de alimentos – Gran Mendoza
-# Descripción del proyecto
+## Red de recuperación trazable de excedentes y envases en la industria de alimentos – Gran Mendoza
+## Descripción del proyecto
 Este proyecto consiste en el diseño de un plan piloto de doce meses (noviembre de 2026 a octubre de 2027), orientado a implementar una red de recuperación trazable de excedentes alimentarios aptos para el consumo y sus envases asociados, provenientes de empresas elaboradoras y distribuidoras de alimentos del Gran Mendoza. La iniciativa busca reducir el desperdicio de alimentos mediante un sistema organizado de identificación, clasificación, registro, almacenamiento, transporte y redistribución de productos recuperables hacia bancos de alimentos y organizaciones sociales. El proyecto propone incorporar herramientas de trazabilidad por lote, etiquetas con códigos QR y sistemas de monitoreo de temperatura para garantizar el seguimiento de los productos y verificar las condiciones de conservación durante su traslado. El piloto plantea una implementación progresiva, comenzando con alimentos envasados estables y avanzando posteriormente hacia productos refrigerados, siempre que se cumplan los criterios de seguridad y viabilidad establecidos.
 
-# Objetivos del proyecto
+## Objetivos del proyecto
 Diseñar e implementar un sistema de recuperación de excedentes alimentarios.
 Garantizar la trazabilidad de los productos desde su identificación hasta su entrega.
 Reducir el desperdicio de alimentos aptos para el consumo.
@@ -15,7 +15,7 @@ Establecer vínculos de colaboración entre empresas alimentarias y organizacion
 Evaluar la viabilidad técnica, operativa y económica del sistema.
 Desarrollar un modelo de negocio sostenible que permita dar continuidad a la iniciativa.
 
-# Contenido del informe
+## Contenido del informe
 El documento desarrolla los siguientes apartados:
 
 **Resumen ejecutivo:** presentación general del proyecto, objetivos, escala de implementación y presupuesto estimado.
