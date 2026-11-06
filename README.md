@@ -52,4 +52,4 @@ Una evaluación de la viabilidad económica y operativa.
 Una propuesta de continuidad y posible escalamiento para la temporada 2027–28.
 
 ## Informe
-Documento del trabajo: [Ver PDF](./Eleeción%20tema.pdf)
+Documento del trabajo: [Ver PDF](./Plan_Piloto_Temporada_2026-27.pdf)
