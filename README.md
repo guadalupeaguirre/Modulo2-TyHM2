@@ -18,18 +18,18 @@ Desarrollar un modelo de negocio sostenible que permita dar continuidad a la ini
 # Contenido del informe
 El documento desarrolla los siguientes apartados:
 
-Resumen ejecutivo: presentación general del proyecto, objetivos, escala de implementación y presupuesto estimado.
-Contexto: antecedentes del proyecto, situación del desperdicio de alimentos en Argentina y aspectos normativos relacionados con la donación de alimentos.
-Objetivos: definición de objetivos técnicos, de adopción y de negocio, junto con sus respectivas metas.
-Alcance del sistema: descripción de las funcionalidades incluidas, exclusiones y fases de operación del piloto.
-Calendario de implementación: planificación de actividades entre noviembre de 2026 y octubre de 2027, con hitos mensuales y tres instancias de decisión (G1, G2 y G3).
-Modelo de negocio y estrategia de marketing: identificación de los segmentos involucrados, propuesta de valor, canales de comunicación, posibles fuentes de ingresos y estrategias de adhesión.
-Presupuesto de la primera temporada: estimación de los recursos económicos necesarios, incluyendo equipamiento, transporte, almacenamiento, capacitación, comunicación e imprevistos. Se presentan un escenario base y un escenario mínimo.
-Riesgos y respuestas: identificación de los principales riesgos operativos, sanitarios, económicos y organizacionales, junto con medidas preventivas y de contingencia.
-Indicadores de éxito: definición de indicadores para evaluar la seguridad alimentaria, eficiencia operativa, adopción del sistema y viabilidad del modelo de negocio.
-Supuestos y puntos por validar: identificación de datos estimados, costos pendientes de cotización, acuerdos por formalizar y aspectos normativos que requieren verificación.
-Anexo A – Método de trabajo con IA: documentación del proceso de utilización de inteligencia artificial para la redacción del informe, incluyendo formulación de indicaciones, refinamiento, revisión crítica y validación de la información.
-Resultados esperados
+**Resumen ejecutivo:** presentación general del proyecto, objetivos, escala de implementación y presupuesto estimado.
+**Contexto:** antecedentes del proyecto, situación del desperdicio de alimentos en Argentina y aspectos normativos relacionados con la donación de alimentos.
+**Objetivos:** definición de objetivos técnicos, de adopción y de negocio, junto con sus respectivas metas.
+**Alcance del sistema:** descipción de las funcionalidades incluidas, exclusiones y fases de operación del piloto.
+**Calendario de implementación:** planificación de actividades entre noviembre de 2026 y octubre de 2027, con hitos mensuales y tres instancias de decisión (G1, G2 y G3).
+**Modelo de negocio y estrategia de marketing:** identificación de los segmentos involucrados, propuesta de valor, canales de comunicación, posibles fuentes de ingresos y estrategias de adhesión.
+**Presupuesto de la primera temporada:** estimación de los recursos económicos necesarios, incluyendo equipamiento, transporte, almacenamiento, capacitación, comunicación e imprevistos. Se presentan un escenario base y un escenario mínimo.
+**Riesgos y respuestas:** identificación de los principales riesgos operativos, sanitarios, económicos y organizacionales, junto con medidas preventivas y de contingencia.
+**Indicadores de éxito:** definición de indicadores para evaluar la seguridad alimentaria, eficiencia operativa, adopción del sistema y viabilidad del modelo de negocio.
+**Supuestos y puntos por validar:** identificación de datos estimados, costos pendientes de cotización, acuerdos por formalizar y aspectos normativos que requieren verificación.
+**Anexo A – Método de trabajo con IA:** documentación del proceso de utilización de inteligencia artificial para la redacción del informe, incluyendo formulación de indicaciones, refinamiento, revisión crítica y validación de la información.
+## Resultados esperados
 Al finalizar el piloto se espera contar con:
 
 Un procedimiento documentado para la recuperación de excedentes alimentarios.
